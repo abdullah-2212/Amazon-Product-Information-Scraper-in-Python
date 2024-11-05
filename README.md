@@ -64,6 +64,7 @@ To execute the scraper function, used the following command structure in the scr
           main("https://www.amazon.com/Dremel-Education-Accessories-Professional-Development/dp/B07KZ8XNDT")
 
 **Conclusion**
+
 This Amazon Product Information Scraper is a powerful tool that leverages Python for efficient data extraction from Amazon product pages. With a user-friendly approach and robust features, it simplifies product data collection, making it a practical asset for data analysts, researchers, and e-commerce enthusiasts.
 
 
